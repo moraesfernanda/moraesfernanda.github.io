@@ -1,7 +1,7 @@
 name: "Fernanda Hansen P. de Moraes"
 description: "The Personal Homepage for Fernanda de Moraes"
 
-url: "http://fernandademoraes.github.io/"
+url: "http://moraesfernanda.github.io/"
 
 gems: [jekyll-paginate]
 paginate: 5
