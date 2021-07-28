@@ -1,7 +1,7 @@
-name: "Benjamin Barad"
-description: "The Personal Homepage for Benjamin Barad"
+name: "Fernanda Hansen P. de Moraes"
+description: "The Personal Homepage for Fernanda de Moraes"
 
-url: "http://benjaminbarad.com"
+url: "http://fernandademoraes.github.io/"
 
 gems: [jekyll-paginate]
 paginate: 5
